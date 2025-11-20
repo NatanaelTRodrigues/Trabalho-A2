@@ -6,8 +6,6 @@ mercado-bairro/
 │   ├── models/
 │   ├── controllers/
 │   ├── validators/
-│   ├── services/  (opcional)
-│   └── database/
 ├── docs/
 ├── .env.example
 ├── .gitignore
