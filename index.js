@@ -21,6 +21,7 @@ mongoose.connect(url)
     console.error("Erro ao conectar no MongoDB:", err);
   });
 
+
 //cruds
 
 const FuncionarioController = require('./controllers/FuncionarioController');
